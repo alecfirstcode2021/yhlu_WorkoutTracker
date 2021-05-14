@@ -11,7 +11,7 @@
  ### A workouttracker demo app that can help users tracking workouts and  make users' purpose-driven and more efficient.
 
  <div align='center'>
-<img src='/>
+<img src='https://github.com/alecfirstcode2021/yhlu_WorkoutTracker/blob/main/public/image/Untitled_%20May%2013%2C%202021%208_41%20PM.gif'/>
 </div>
 
 ## Table of Contents

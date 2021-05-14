@@ -1,7 +1,18 @@
 # WorkoutTracker ![badge](https://img.shields.io/badge/license-MIT-brightpink)
 
+![WorkoutTracker](./public/image/pic1.png)
 
- A workouttracker demo app that can help users tracking workouts and  make users' purpose-driven and more efficient.
+[GitHub](https://github.com/alecfirstcode2021/yhlu_WorkoutTracker)
+
+<p align='center'> Click <a href="https://keepinghealthy.herokuapp.com/">here</a> to view the live application!</p>
+<br>
+
+<h1 align='center'>Description</h1>
+ ### A workouttracker demo app that can help users tracking workouts and  make users' purpose-driven and more efficient.
+
+ <div align='center'>
+<img src='/>
+</div>
 
 ## Table of Contents
 - [Description](#description)
